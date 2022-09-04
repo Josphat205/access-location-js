@@ -12,7 +12,7 @@ This is an web app that access your currecnt location by fetching the codinates 
 
 ## Live Demo
 
-[Weather-App](https://knowyourlocation.netlify.app/)
+[Acces-location](https://knowyourlocation.netlify.app/)
 
 
 ## Run Locally
